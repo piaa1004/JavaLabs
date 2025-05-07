@@ -1,0 +1,19 @@
+package com.ysy.interfaces.impls;
+
+import com.ysy.interfaces.DoIt;
+
+public class ImplADoIt implements DoIt{
+
+	public void doSomething(int i, double x) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public int doSomethingElse(String s) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	
+
+}
