@@ -1,8 +1,12 @@
 package com.ysy.reflection.classes.retrievingclassobjects;
 
 public class ClassforName {
+	
+	java.util.concurrent.ConcurrentNavigableMap cnp;
 
 	public static void main(String[] args) {
+		Void voidClass;
+		//String str = Void.TYPE;
 		Class c = null;
 		try {
 			c = Class.forName("com.ysy.reflection.classes.retrievingclassobjects.MyLocaleServiceProvider");
@@ -26,6 +30,8 @@ public class ClassforName {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		
+		return ;
 
 	}
 
