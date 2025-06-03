@@ -1,4 +1,4 @@
-package com.ysy.jdkproxy;
+package com.ysy.jdkproxy.dump;
 
 //import sun.misc.ProxyGenerator;
 import java.io.*;

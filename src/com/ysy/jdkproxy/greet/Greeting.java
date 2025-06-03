@@ -1,4 +1,4 @@
-package com.ysy.jdkproxy;
+package com.ysy.jdkproxy.greet;
 
 public interface Greeting {
     default void sayHello() {

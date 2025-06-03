@@ -1,4 +1,4 @@
-package com.ysy.jdkproxy;
+package com.ysy.jdkproxy.greet;
 
 import java.lang.reflect.Proxy;
 
