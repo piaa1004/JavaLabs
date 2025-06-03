@@ -1,4 +1,4 @@
-package com.ysy.reflection.constructors;
+package com.ysy.reflection.members.constructors;
 
 public class Foo {
 
