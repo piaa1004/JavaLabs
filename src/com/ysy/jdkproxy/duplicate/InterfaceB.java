@@ -1,5 +1,5 @@
 package com.ysy.jdkproxy.duplicate;
 
 public interface InterfaceB {
-	void duplicateMethod();
+	void duplicateMethods();
 }
