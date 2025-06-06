@@ -14,7 +14,7 @@ import com.ysy.cglibdemo.service.WeatherServiceImpl;
 public class CGLibMain {
 	
 	public static void main(String[] args) {
-        printTitle("🚀 JDK Dynamic Proxy Demo");
+        printTitle("🚀 CGLib Proxy Demo");
 
         List<ServiceRunner> services = List.of(
             new ServiceRunner("👋 인사", () -> {
