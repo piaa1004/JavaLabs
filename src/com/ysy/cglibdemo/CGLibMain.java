@@ -9,8 +9,6 @@ import com.ysy.cglibdemo.service.MathServiceImpl;
 import com.ysy.cglibdemo.service.NewsServiceImpl;
 import com.ysy.cglibdemo.service.WeatherServiceImpl;
 
-
-
 public class CGLibMain {
 	
 	public static void main(String[] args) {
