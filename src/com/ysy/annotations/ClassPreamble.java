@@ -2,6 +2,8 @@ package com.ysy.annotations;
 
 import java.lang.annotation.Documented;
 
+
+
 @Documented
 public @interface ClassPreamble {
 	
